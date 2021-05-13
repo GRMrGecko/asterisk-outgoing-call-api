@@ -1,0 +1,6 @@
+Channel: pjsip/103
+WaitTime: 15
+Context: Phone-Ring-Dummy-Answer
+Extension: talk
+Priority: 1
+Archive: no
